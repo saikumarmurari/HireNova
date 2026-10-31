@@ -1,0 +1,6 @@
+{
+  "name": "CareerOrbit AI - Smart Job Application Assistant",
+  "description": "Comprehensive AI career companion with AI Resume Builder, Resume Analyzer, JD Matcher, Cover Letter Generator, Job Application Tracker, Mock Interview Simulator, and Skill Gap Analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
